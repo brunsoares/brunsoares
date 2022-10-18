@@ -20,11 +20,11 @@
   <img align="center" alt="Bruno-CSS" height="30" width="40" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Js" height="30" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-BootStrap" height="30" width="40" title="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Bruno-Angular" height="30" width="40" title="UnityEngine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Bruno-Angular" height="30" width="40" title="AngularJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
 <br/>
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Bruno-PostgreSQL" height="30" width="40" title="UnityEngine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Bruno-PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Bruno-Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Bruno-Jenkins" height="30" width="40" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Bruno-Jira" height="30" width="40" title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
