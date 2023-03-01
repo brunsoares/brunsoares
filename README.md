@@ -12,24 +12,34 @@
   <h2>Linguagens e Tecnologias</h2>
 </div>
   
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Bruno-Python" height="30" width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<div style="display: inline_block" align="center" id="linguagens">
   <img align="center" alt="Bruno-Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Bruno-MySql" height="30" width="40" title="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Bruno-Js" height="30" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bruno-NodeJs" height="30" width="40" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Bruno-Ts" height="30" width="40" title="TypeScript"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Bruno-Python" height="30" width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-Js" height="30" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-BootStrap" height="30" width="40" title="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Bruno-Angular" height="30" width="40" title="AngularJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
+
 <br/>
-<div style="display: inline_block" align="center">
+  
+<div style:"display: inline_block" align="center" id="databases">
+  <img align="center" alt="Bruno-MySql" height="30" width="40" title="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Bruno-MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Bruno-PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
+  
+<br/>
+  
+<div style="display: inline_block" align="center" id="ferramentas">
   <img align="center" alt="Bruno-Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Bruno-Jenkins" height="30" width="40" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Bruno-Jira" height="30" width="40" title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
   <img align="center" alt="Bruno-Linux" height="30" width="40" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Bruno-BitBucket" height="30" width="40" title="BitBucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg">
+  <img align="center" alt="Bruno-Jenkins" height="30" width="40" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Bruno-Photoshop" height="30" width="40" title="PhotoShop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div>
   
