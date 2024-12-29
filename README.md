@@ -48,4 +48,4 @@
 
 <br/> 
   
-![snake animation](https://brunsoares.github.io/brunsoares/github-contribution-grid-snake.svg)
+![snake animation](https://brunsoares.github.io/brunsoares/github-contribution-grid-snake-dark.svg)
