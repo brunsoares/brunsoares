@@ -18,12 +18,17 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v1  # Usando a versão 1
+        uses: Platane/snk@v1
         with:
           github_user_name: brunsoares
+          
+      - name: Move SVG file
+        run: |
+          mv ./snake.svg ./output/snake.svg  # Mover o arquivo gerado para a pasta correta
           
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Generated snake animation"
           branch: output
+          file_pattern: "output/snake.svg"  # Definir o padrão do arquivo para o commit
