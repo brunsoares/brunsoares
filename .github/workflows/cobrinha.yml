@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read  # Permissões para acessar o conteúdo do repositório
-  actions: read   # Permissões para ações de leitura
+  contents: read
+  actions: read
 
 jobs:
   build:
@@ -18,9 +18,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v1  # Usando a versão 1
         with:
-          github_user_name: brunsoares  # Usando seu nome de usuário diretamente
+          github_user_name: brunsoares
           
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
