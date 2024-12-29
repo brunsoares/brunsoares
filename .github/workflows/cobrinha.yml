@@ -21,11 +21,16 @@ jobs:
         uses: Platane/snk@v1
         with:
           github_user_name: brunsoares
-          
+          # Definir o caminho de saída para o arquivo SVG gerado
+          outputs: snake.svg
+
+      - name: Create output directory
+        run: mkdir -p output  # Garantir que o diretório de saída exista
+
       - name: Move SVG file
         run: |
-          mv ./snake.svg ./output/snake.svg  # Mover o arquivo gerado para a pasta correta
-          
+          mv ./snake.svg ./output/snake.svg 
+
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
