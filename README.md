@@ -14,7 +14,6 @@
 <div style="display: inline_block" align="center" id="linguagens">
   <img align="center" alt="Java"   height="30" width="40" title="java"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Js"     height="30" width="40" title="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="NodeJs" height="30" width="40" title="node"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Ts"     height="30" width="40" title="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Python" height="30" width="40" title="python"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
@@ -22,6 +21,7 @@
 <br/>
 
 <div style="display: inline_block" align="center" id="frameworks">
+  <img align="center" alt="NodeJs" height="30" width="40" title="node"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Angular"  height="30" width="40" title="angular"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Nest"     height="30" width="40" title="nest"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="Spring"   height="30" width="40" title="spring"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
