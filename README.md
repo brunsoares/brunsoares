@@ -3,8 +3,12 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunsoares&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=993ede&border_radius=15&locale=pt-br&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunsoares&layout=compact&langs_count=7&theme=radical&title_color=993ede&border_radius=15&locale=pt-br"/>
+  <!--
+  <img height="180em" src="https://git-hub-stats-card-generator.vercel.app/api?username=brunsoares&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=993ede&border_radius=15&locale=pt-br&rank_icon=github"/>
+  <img height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/top-langs/?username=brunsoares&layout=compact&langs_count=7&theme=radical&title_color=993ede&border_radius=15&locale=pt-br"/>
+  -->
+  <img height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=brunsoares&type=contributions&theme=dracula"/>
+  <img height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=brunsoares&type=languages&theme=dracula&chart=bars"/>
 </div>
   
 <div align="center">
